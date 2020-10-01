@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hypoteneuse Calculator", "Hypoteneuse Calculator.csproj", "{A1202552-4805-4A68-9F94-D79326364F4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1202552-4805-4A68-9F94-D79326364F4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1202552-4805-4A68-9F94-D79326364F4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1202552-4805-4A68-9F94-D79326364F4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1202552-4805-4A68-9F94-D79326364F4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB03E603-7697-4E80-B733-510B9F8D2F23}
+	EndGlobalSection
+EndGlobal
