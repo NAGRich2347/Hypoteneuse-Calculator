@@ -12,14 +12,14 @@ namespace Hypotenuse_Calculator
         {
             double legOne;
             Console.WriteLine("Please enter the length of the first triangle leg.");
-            Console.ReadLine();
+            legOne = Convert.ToDouble(Console.ReadLine());
 
             double legTwo;
             Console.WriteLine("Please enter the length of the second triangle leg.");
-            Console.ReadLine();
+            legTwo = Convert.ToDouble(Console.ReadLine());
 
-            double hypo = legOne
-            Console.WriteLine($"The length of your hypotenuse is {}.")
+            double hypoLength = Math.Sqrt((legOne * legOne) + (legTwo * legTwo));
+            Console.WriteLine($"The length of your hypotenuse is {hypoLength}.");
 
             Console.ReadLine();
         }
